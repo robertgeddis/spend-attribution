@@ -4,7 +4,7 @@
 A collection of SQL queries for attributing marketing spend, calculating spend based metrics (CAC, LTV) and building dashboards.
 The goal of the work in this repository was to provide a 'single source of truth' regarding spend and turn raw data to actionable insights.
 
-## 📊 Focus Areas
+## 📈 Focus Areas
 * **CAC (Customer Acquisition Cost):** Total Spend / New Upgrades.
 * **ROAS (Return on Ad Spend):** Total Revenue / Total Spend.
 * **LTV:** Bookings / Churn 
