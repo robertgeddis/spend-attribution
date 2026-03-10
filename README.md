@@ -12,7 +12,6 @@ The goal of the work in this repository was to provide a 'single source of truth
 * **Common Table Expressions (CTEs):** For modular, readable code that separates data cleaning from final aggregation.
 * **Window Functions:** (e.g., `SUM() OVER(...)`) to calculate cumulative spend and running totals across time periods.
 * **Complex Joins:** Bridging disparate data sources such as manual spend files with transactional databases.
-* **Data Normalization:** Handling currency conversions and aligning spend to user and vertical matrix for reporting.
 
 ## 💼 Business Impact
 * **Budget:** Segmenting spend by country, marketing channel, user role and vertical.  
